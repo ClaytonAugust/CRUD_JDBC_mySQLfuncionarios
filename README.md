@@ -1,2 +1,3 @@
 # CRUD_JDBC_mySQLfuncionarios
- CRUD com mysql 
+ CRUD with Java and mysql, Using netBeans 
+under construction
